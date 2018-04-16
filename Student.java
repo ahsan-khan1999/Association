@@ -1,7 +1,8 @@
 public class Student{
 	private String name  = "ahlpj";
 	private String id;
-	
+
+	Course  c1 = new Course(); 	
 	public void setName(String name){
 	this.name = name;
 }
